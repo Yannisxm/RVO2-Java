@@ -1,0 +1,13 @@
+*               text=auto
+
+*.css           text diff=css
+*.html          text diff=html
+*.ico           binary
+*.js            text
+*.png           binary
+*.webmanifest   text
+*.xml           text diff=html
+
+.gitattributes  text
+.nojekyll       text
+element-list    text

@@ -1,0 +1,12 @@
+{
+  "name": "edu.unc.cs.gamma.rvo",
+  "short_name": "rvo",
+  "lang": "en_US",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "120x120"
+    }
+  ]
+}
